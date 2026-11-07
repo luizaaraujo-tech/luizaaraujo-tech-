@@ -1,1 +1,13 @@
-# luizaaraujo-tech-
+<div align="center">
+
+  <img src="banner.png" width="100%" />
+
+</div>
+
+<h2 align="center">Olá! Eu sou a Luiza</h2>
+
+<p align="center">
+
+  Estudante de Sistemas de Informação
+
+</p>
